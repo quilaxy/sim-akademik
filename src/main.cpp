@@ -7,7 +7,7 @@
 #include "include/tendik.hpp"
 
 using namespace std;
-//helo
+
 int main(int argc, char** argv)
 {
 	vector<mahasiswa> recMhs;
